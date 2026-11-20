@@ -1,0 +1,3 @@
+interface:
+  display_name: "Writing for Agents"
+  short_description: "Use this skill when writing AGENTS.md or CLAUDE.md, or when creating or editing skills."
