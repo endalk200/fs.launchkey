@@ -1,8 +1,0 @@
-{
-	"extends": "@app/typescript-config/react-library.json",
-	"compilerOptions": {
-		"rootDir": "."
-	},
-	"include": ["**/*.ts", "**/*.tsx"],
-	"exclude": ["node_modules"]
-}
